@@ -7,5 +7,6 @@ public class ClassDemoLog4jSimple {
 
     public static void main(String[] args) {
         ClassDemoLog4jSimple classDemoLog4jSimple = new ClassDemoLog4jSimple();
+        System.out.println("Other test");
     }
 }
